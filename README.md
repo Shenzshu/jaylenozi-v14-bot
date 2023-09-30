@@ -19,5 +19,4 @@ Botlar ravgar kardeşimin paylaştığı botlardır, Ben sadece hatalarını ç�
 NOT: Botları kullanmaya başlamadan önce A dan Z ye tüm kurulumları bitirip botu tekrardan başlatmalısınız, setup bitip botları tekrar başlatana kadar terminalde hata vermesi normaldir.
 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/149284207833645056)](https://discord.com/users/149284207833645056)"# asdsadsad" 
-"# jaylenozi-v14-bots" 
+[![Discord Presence](https://lanyard.cnrad.dev/api/149284207833645056)](https://discord.com/users/149284207833645056)
